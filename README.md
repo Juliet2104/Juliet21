@@ -1,6 +1,6 @@
 <body>
     <div class="container">
-        <h1>🌐 Mi cuenta de GitHub sobre PHP</h1>
+        <h1>🌐PHP</h1>
         
    <div class="feature">
             <h2>📚 En este apartado hablaremos de PHP...</h2>
