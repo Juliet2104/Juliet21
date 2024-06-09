@@ -1,13 +1,7 @@
-</head>
-<body>
-    <div class="container"
-        <h1>Mi cuenta de GitHub sobre PHP</h1>
-        <div class="image">
-            <img src="https://cdn.pixabay.com/photo/2017/09/01/21/53/blue-2705643_960_720.jpg" alt="PHP Image" width="200">
-        </div>
-        <p>En este apartado hablaremos de PHP..</p>
-        PHP (Hypertext Preprocessor) es un lenguaje de programación de código abierto muy popular, especialmente adecuado para el desarrollo web y puede ser incrustado en HTML. Fue creado por Rasmus Lerdorf en 1994 y ha evolucionado significativamente desde entonces. Aquí tienes una visión general de sus características y aplicaciones:
-
+ # Mi cuenta de GitHub sobre PHP
+ 
+  ## En este apartado hablaremos de PHP..
+PHP (Hypertext Preprocessor) es un lenguaje de programación de código abierto muy popular, especialmente adecuado para el desarrollo web y puede ser incrustado en HTML. Fue creado por Rasmus Lerdorf en 1994 y ha evolucionado significativamente desde entonces. Aquí tienes una visión general de sus características y aplicaciones:
 ### Características de PHP
 
 1. *Scripting del lado del servidor*: PHP se ejecuta en el servidor web y genera HTML que es enviado al navegador del usuario.
@@ -57,10 +51,9 @@ Para desarrollar en PHP, necesitas un servidor web (como Apache o Nginx) y un in
 
 PHP sigue siendo una opción poderosa y flexible para el desarrollo web, gracias a su amplia adopción, robustez y la gran cantidad de recursos disponibles.
        
-      <h1> Conéctate Conmigo</h1>
+ ###<<Conéctate Conmigo<<
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ykl_mgt?igsh=MTRuMDJ5enJ3dHFqcQ%3D%3D&utm_source=qr)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/itkayul.montes?mibextid=LQQJ4d)
-
     </div>
 </body>
 </html>
